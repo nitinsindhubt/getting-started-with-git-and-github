@@ -132,3 +132,11 @@ Finished with your project?
 		git push origin v1.0.0
 
 Replace 1.0.0 in the snippet here with your appropriate versions. Now you have a tag saved.
+
+
+**Test From Dhiraj** 
+git checkout master
+		git merge --no-ff develop
+		git push origin master
+		git tag v1.0.0
+		git push origin v1.0.0
